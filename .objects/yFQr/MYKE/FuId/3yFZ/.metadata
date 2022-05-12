@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3yFZ2B4lbUmcpO5OK8Gu8A",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/3yFZ2B4lbUmcpO5OK8Gu8A",
+  "ParentRef": "fNRjTAMBC0qbHjVmYv8eew/FuIdO03pWkSMQU6VUhWuEg",
+  "Name": "roleChallenge",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-12T23:22:46.6857013Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:22:57.3260621Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

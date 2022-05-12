@@ -1,0 +1,16 @@
+﻿{
+  "Id": "t4IUnWrdJ0q39Vpw4ZszXA",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/t4IUnWrdJ0q39Vpw4ZszXA",
+  "ParentRef": "fNRjTAMBC0qbHjVmYv8eew/FuIdO03pWkSMQU6VUhWuEg",
+  "Name": "CompanyChallenge",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-12T23:22:06.4051075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:22:16.5661017Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

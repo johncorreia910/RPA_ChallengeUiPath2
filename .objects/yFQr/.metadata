@@ -1,0 +1,11 @@
+﻿{
+  "Id": "yFQroF1gtEKt1h_2HsJDRQ",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/yFQroF1gtEKt1h_2HsJDRQ",
+  "Name": "ChromeRpa",
+  "Type": "App",
+  "Created": "2022-05-12T23:20:48.6012373Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:20:48.6012373Z"
+}

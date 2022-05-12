@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3kTPvYBcXEaWRqlCpeM7Tg",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/3kTPvYBcXEaWRqlCpeM7Tg",
+  "ParentRef": "fNRjTAMBC0qbHjVmYv8eew/FuIdO03pWkSMQU6VUhWuEg",
+  "Name": "AdressChallenge",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-12T23:21:27.0686788Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:26:26.2715549Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

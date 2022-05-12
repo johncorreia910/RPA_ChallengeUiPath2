@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oyYtB_9SAU2xljcB6aty1Q",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/oyYtB_9SAU2xljcB6aty1Q",
+  "ParentRef": "fNRjTAMBC0qbHjVmYv8eew/FuIdO03pWkSMQU6VUhWuEg",
+  "Name": "EmailChallenge",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-12T23:21:45.2047691Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:21:59.8051247Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

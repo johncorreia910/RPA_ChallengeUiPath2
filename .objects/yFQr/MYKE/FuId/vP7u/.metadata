@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vP7uMkYX1kSN_na3sLMxAQ",
+  "Reference": "fNRjTAMBC0qbHjVmYv8eew/vP7uMkYX1kSN_na3sLMxAQ",
+  "ParentRef": "fNRjTAMBC0qbHjVmYv8eew/FuIdO03pWkSMQU6VUhWuEg",
+  "Name": "LastNameChallenge",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-12T23:22:20.6531058Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:22:29.1251061Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
